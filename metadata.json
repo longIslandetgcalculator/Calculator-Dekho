@@ -1,0 +1,5 @@
+{
+  "name": "All-In-One Calculator Pro",
+  "description": "A comprehensive PWA featuring a scientific calculator and 75+ converters/tools. Works offline, mobile-first design.",
+  "requestFramePermissions": []
+}
